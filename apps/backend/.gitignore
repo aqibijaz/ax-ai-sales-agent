@@ -1,0 +1,32 @@
+# Virtual environment
+ai-agent-venv/
+venv/
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.*
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Build / distribution
+*.egg-info/
+dist/
+build/
+
+# Poetry / pip
+poetry.lock
+*.log
+
+# Test / coverage
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
